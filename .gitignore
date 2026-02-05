@@ -1,15 +1,88 @@
+# ======================
+# Android Studio / IntelliJ
+# ======================
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+*.ipr
+*.iws
+
+# ======================
+# Gradle
+# ======================
+.gradle/
+build/
+**/build/
+
+# ======================
+# Local configuration
+# ======================
 local.properties
+
+# ======================
+# OS files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Log files
+# ======================
+*.log
+
+# ======================
+# APK / AAB
+# ======================
+*.apk
+*.aab
+
+# ======================
+# Generated files
+# ======================
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ======================
+# Kotlin / Java
+# ======================
+*.class
+
+# ======================
+# Firebase / Google Services
+# (keep JSON if shared publicly)
+# ======================
+# google-services.json
+
+# ======================
+# Keystore files (VERY IMPORTANT)
+# ======================
+*.jks
+*.keystore
+key.properties
+
+# ======================
+# NDK
+# ======================
+obj/
+
+# ======================
+# Lint / Reports
+# ======================
+lint/
+lint-results*.html
+lint-results*.xml
+
+# ======================
+# Fastlane
+# ======================
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# ======================
+# Temporary / Backup
+# ======================
+*.bak
+*.tmp
+*.swp
