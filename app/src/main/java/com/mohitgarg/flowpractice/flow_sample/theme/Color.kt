@@ -1,4 +1,4 @@
-package com.mohitgarg.flowpractice.ui.theme
+package com.mohitgarg.flowpractice.flow_sample.theme
 
 import androidx.compose.ui.graphics.Color
 

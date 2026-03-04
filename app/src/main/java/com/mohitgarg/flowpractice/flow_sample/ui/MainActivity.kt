@@ -1,4 +1,4 @@
-package com.mohitgarg.flowpractice
+package com.mohitgarg.flowpractice.flow_sample.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.mohitgarg.flowpractice.ui.theme.FlowPracticeTheme
+import com.mohitgarg.flowpractice.flow_sample.theme.FlowPracticeTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

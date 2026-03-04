@@ -1,6 +1,5 @@
-package com.mohitgarg.flowpractice.ui.theme
+package com.mohitgarg.flowpractice.flow_sample.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

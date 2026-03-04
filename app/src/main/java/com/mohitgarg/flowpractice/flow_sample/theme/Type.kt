@@ -1,4 +1,4 @@
-package com.mohitgarg.flowpractice.ui.theme
+package com.mohitgarg.flowpractice.flow_sample.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
